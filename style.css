@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    background-color:#265C4B;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #265C4B;
+    background-color: #8FC1B5;
+}
+
+p {
+    color: #ffffff;
+}
+
+ol {
+    color: #ffee03;
+}
+
+ul {
+    color: #ffee03;
+}
+
+a {
+    color: #b2e800;
+}
+
+q {
+    color: black;
+    background-color: #ffee03;
+}
+
+blockquote {
+    background-color: #ffee03;
+}
+
+code {
+    font-size: larger;
+    color: #ffffff;
+}
